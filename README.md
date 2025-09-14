@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @santipadron
-- 👀 I’m interested in music, science, computers, jazz
-- 🌱 I’m currently learning computer engineering @McGill
+# Hello everyone!
+I'm Santiago Padron (@santipadron). Nice to see you here! 👋
 
+I am currently studying Computer Engineering @McGill University 📚
 
-<!---
-- 💞️ I’m looking to collaborate on nothing, I don't really know how this works
-- 📫 How to reach me : don't
-
-santipadron/santipadron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Languages and skills
+- **Programming languages**: Python, Java, C, Bash, VHDL, HTML/CSS
+- **Technologies / Libraries**: Arduino, FPGA, Numpy, Matplotlib
+- **Developer tools / Software**: Git, Linux, Vim, Markdown, SAP, Adobe Suite, Ableton, Office 365 Suite
+## Interests
+- Aerospace (avionics)
+- Hardware development / embedded systems
+- Video game development
+- Music and creative software
+## Fun facts about me
+- I am musically trained and I play the drums 🥁
+- I love to cook
+- I am fluent in French, Spanish, and English
+## What I'm up to recently
+- Learning: I'm currently studying full time so that takes most of my time
