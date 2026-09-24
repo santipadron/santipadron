@@ -1,5 +1,5 @@
-![hello](assets/hello.gif)
 ## Hello everyone!
+![hello](assets/hello.gif)
 
 I'm Santiago, a computer engineering student @ McGill :boom:
 
