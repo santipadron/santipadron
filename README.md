@@ -1,20 +1,23 @@
-# Hello everyone!
-I'm Santiago Padron (@santipadron). Nice to see you here! 👋
+![hello](assets/hello.gif)
+## Hello everyone!
 
-I am currently studying Computer Engineering @McGill University 📚
+I'm Santiago, a computer engineering student @ McGill :boom:
 
-## Languages and skills
-- **Programming languages**: Python, Java, C, Bash, VHDL, HTML/CSS
-- **Technologies / Libraries**: Arduino, FPGA, Numpy, Matplotlib
-- **Developer tools / Software**: Git, Linux, Vim, Markdown, SAP, Adobe Suite, Ableton, Office 365 Suite
-## Interests
-- Aerospace (avionics)
+### Lately I've been keeping myself busy doing the following:
+
+- Studying computer engineering (makes sense)
+- Building a [CubeSat](https://github.com/Orbital-CubeSat-McGill) with the McGill Rocket Team and trying to (eventually) send it to space
+- Organizing aerospace events with the [McGill Institute for Aerospace Engineering](https://miae.ca/) (MIAE)
+- TA-ing ECSE 223 (Model-Based Programming)
+
+### Interests
+
+- Space systems and space exploration
 - Hardware development / embedded systems
 - Video game development
 - Music and creative software
-## Fun facts about me
-- I am musically trained and I play the drums 🥁
-- I love to cook
-- I am fluent in French, Spanish, and English
-## What I'm up to recently
-- Learning: I'm currently studying full time so that takes most of my time
+
+### Languages and skills
+- **Programming languages**: Python, Java, C, Bash, VHDL, ARM ISA, HTML/CSS
+- **Technologies / Libraries**: Arduino, Microcontrollers, FPGAs, PCB Design, Raspberry Pi, Numpy, Matplotlib, Gradle, JUnit, Gherkin, Cucumber
+- **Developer tools / Software**: Git, Linux, Vim, LaTeX, KiCad, Altium, Markdown 
